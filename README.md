@@ -6,6 +6,6 @@ After my current lab I will be able to:
 - [x] *Setup* _a development environment in IntelliJ._
 - [x] *Setup* _a GitHub repository._
 - [x] *Pull* _a Docker container._
-- [ ] *Manage* _a Docker container using basic commands._
-- [ ] *Define* _a Dockerfile to create your own container._
-- [ ] *Deploy* _to a Docker container in IntelliJ_
+- [x] *Manage* _a Docker container using basic commands._
+- [x] *Define* _a Dockerfile to create your own container._
+- [x] *Deploy* _to a Docker container in IntelliJ_
