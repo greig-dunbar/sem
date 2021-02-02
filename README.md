@@ -1,5 +1,6 @@
 # SEM (Software Engineering Methods)
 * Master Build Status [![Build Status](https://travis-ci.com/greig-dunbar/sem.svg?branch=master)](https://travis-ci.com/greig-dunbar/sem)  
+  
 This repository was set-up during lab 1 in order to become familiar
 with the new expected development workflow.
 ## Current Objectives:-
